@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Adarsh
+- 👋 Hi, I’m adhi
 - 👀 I’m interested in Web development, Designing, illustration
 - 🌱 I’m currently learning Backend
 - 📫 How to reach me on my email
