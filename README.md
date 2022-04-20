@@ -1,7 +1,7 @@
 - 👋 Hi, I’m adhi
 - 👀 I’m interested in Web development, Designing, illustration
 - 🌱 I’m currently learning Backend
-- 📫 How to reach me on my email
+- 📫 How to reach me on my mail addhidcooper6@gmail.com
 
 <!---
 adhidcooper/adhidcooper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
