@@ -1,4 +1,4 @@
-#Hi there, I am Adarsh 👋!
+## Hi there, I am Adarsh 👋!
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=adhidcooper&show_icons=true&theme=radical"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adhidcooper&hide_progress=true"/>
